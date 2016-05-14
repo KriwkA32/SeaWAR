@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/emptyCell.png</file>
+        <file>Resource/hitShip.png</file>
+        <file>Resource/missCell.png</file>
+        <file>Resource/seabg.png</file>
+        <file>Resource/ship.png</file>
+    </qresource>
+</RCC>
